@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+Finance architecture: keep four separate authenticated TanStack routes sharing FinanceProvider; private finance tables are accessed with the browser's authenticated client and database row policies, so users cannot access each other's rows.
