@@ -1,0 +1,6 @@
+- [x] Contas e banco privado por usuário
+- [x] Entrada, cadastro, recuperação e perfil
+- [x] Navegação e visão geral com gráficos
+- [x] Gerenciamento de lançamentos e categorias
+- [x] Análises e responsividade das páginas públicas; compilação e regras de acesso verificadas
+- [ ] Validar operações e aparência das páginas privadas com uma conta autenticada — bloqueio: ainda não existe usuário cadastrado para iniciar uma sessão de teste.
