@@ -1,0 +1,5 @@
+- [x] Contas e banco privado por usuário
+- [ ] Entrada, cadastro, recuperação e perfil
+- [ ] Navegação e visão geral com gráficos
+- [ ] Gerenciamento de lançamentos e categorias
+- [ ] Análises, responsividade e verificação
